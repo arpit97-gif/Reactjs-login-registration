@@ -1,0 +1,24 @@
+.form{
+    border:2px solid;
+    border-radius:4px;
+    background-color:whitesmoke;
+     padding:2%;
+    margin-top: 100px;
+    margin-left:30%;
+    margin-right: 30%;
+    border-radius: 10px;
+}
+
+.name,.numb,.mail,.but,.pass
+{
+    border-radius: 5px;
+    margin:10px;
+    padding:10px;
+ }
+
+ .boarder
+ {
+    margin:20px;
+    background-color: rosybrown;
+    padding:15px;
+}
